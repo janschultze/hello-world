@@ -1,2 +1,2 @@
 # hello-world
-Optional description omitted for brevity
+Optional description omitted for brevity.
